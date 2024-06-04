@@ -1808,19 +1808,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iasmi\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
       "projectName": "FatecSisMed.IdentityServer",
-      "projectPath": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\iasmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.IdentityServer\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iasmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1840,11 +1840,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1899,7 +1894,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

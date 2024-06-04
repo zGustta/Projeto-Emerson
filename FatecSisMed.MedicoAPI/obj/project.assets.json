@@ -1605,19 +1605,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iasmi\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\FatecSisMed.MedicoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\FatecSisMed.MedicoAPI.csproj",
       "projectName": "FatecSisMed.MedicoAPI",
-      "projectPath": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\FatecSisMed.MedicoAPI.csproj",
-      "packagesPath": "C:\\Users\\iasmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iasmi\\OneDrive - Fatec Centro Paula Souza\\5_Semestre\\Topicos Especiais\\FatecSisMed-master 2\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\FatecSisMed.MedicoAPI.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\Gustavopmb\\FatecSisMed - Emerson\\FatecSisMed-master\\FatecSisMed.MedicoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iasmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1637,11 +1637,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1704,7 +1699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -1713,7 +1708,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'Npgsql' 8.0.2 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "message": "Package 'Npgsql' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net8.0"
