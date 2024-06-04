@@ -1,0 +1,117 @@
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.AssemblyReference.cache
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfoInputs.cache
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfo.cs
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.CoreCompileInputs.cache
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\appsettings.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.exe
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.deps.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.runtimeconfig.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Humanizer.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.FatecSisMed.MedicoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecSisMed.MedicoAPI.props
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecSisMed.MedicoAPI.props
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecSisMed.MedicoAPI.props
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\scopedcss\bundle\FatecSisMed.MedicoAPI.styles.css
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSis.0BB64C5E.Up2Date
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\refint\FatecSisMed.MedicoAPI.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.genruntimeconfig.cache
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\ref\FatecSisMed.MedicoAPI.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Npgsql.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\FATEC\5º Semestre\topicos-espec-2\FatecSisMed\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.exe
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.deps.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.runtimeconfig.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.AssemblyInfo.cs
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.sourcelink.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.FatecSisMed.MedicoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecSisMed.MedicoAPI.props
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecSisMed.MedicoAPI.props
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecSisMed.MedicoAPI.props
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\scopedcss\bundle\FatecSisMed.MedicoAPI.styles.css
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSis.0BB64C5E.Up2Date
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\refint\FatecSisMed.MedicoAPI.dll
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.pdb
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\FatecSisMed.MedicoAPI.genruntimeconfig.cache
+C:\Users\gusta\Desktop\aulas fatec\5 semestre\csharp\atualizado\FatecSisMed\FatecSisMed.MedicoAPI\obj\Debug\net6.0\ref\FatecSisMed.MedicoAPI.dll

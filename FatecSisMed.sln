@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{879477B3-8E2C-4443-A851-0B3A13478259}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEB", "WEB", "{0A55AD0F-4BD7-497A-96A4-76529CC804C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FatecSisMed.MedicoAPI", "FatecSisMed.MedicoAPI\FatecSisMed.MedicoAPI.csproj", "{B4ABAC51-362A-44AC-870A-7DBD999DE7AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FatecSisMed.Web", "FatecSisMed.Web\FatecSisMed.Web.csproj", "{F7380543-6A96-47C3-AD19-1479327A5A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatecSisMed.IdentityServer", "FatecSisMed.IdentityServer\FatecSisMed.IdentityServer.csproj", "{7252568C-501D-4200-8AC1-860C72EDB7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ABAC51-362A-44AC-870A-7DBD999DE7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ABAC51-362A-44AC-870A-7DBD999DE7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ABAC51-362A-44AC-870A-7DBD999DE7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ABAC51-362A-44AC-870A-7DBD999DE7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7380543-6A96-47C3-AD19-1479327A5A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7380543-6A96-47C3-AD19-1479327A5A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7380543-6A96-47C3-AD19-1479327A5A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7380543-6A96-47C3-AD19-1479327A5A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7252568C-501D-4200-8AC1-860C72EDB7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7252568C-501D-4200-8AC1-860C72EDB7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7252568C-501D-4200-8AC1-860C72EDB7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7252568C-501D-4200-8AC1-860C72EDB7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4ABAC51-362A-44AC-870A-7DBD999DE7AF} = {879477B3-8E2C-4443-A851-0B3A13478259}
+		{F7380543-6A96-47C3-AD19-1479327A5A3D} = {0A55AD0F-4BD7-497A-96A4-76529CC804C6}
+		{7252568C-501D-4200-8AC1-860C72EDB7C0} = {879477B3-8E2C-4443-A851-0B3A13478259}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B949252E-88FB-4146-B7BE-2DED06048453}
+	EndGlobalSection
+EndGlobal
